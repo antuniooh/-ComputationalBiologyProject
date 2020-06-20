@@ -1,5 +1,7 @@
 package mundo;
 
+import java.util.Scanner;
+
 import java.util.ArrayList;
 import hospital.Hospital;
 import pessoaDoente.PessoaDoente;
@@ -383,10 +385,17 @@ public class Mundo {
      *
      */
     public void desenhaMundo() {
+        Scanner input = new Scanner(System.in);
         createHospital(hospitais, 3);
+
+        System.out.print("Digite o número de pessoas saudáveis: ");
+        int healthPeople = input.nextInt();
+        System.out.print("Digite o número de pessoas doentes: ");
+        int infectedPeople = input.nextInt();
+
         populateWithHospital(mapa);
-        createHealthPeople(saudaveis, 10);
-        createInfectedPeople(doentes, 1);
+        createHealthPeople(saudaveis, healthPeople);
+        createInfectedPeople(doentes, infectedPeople);
 
         int[][] myStaticMap = createStaticMap();
 
