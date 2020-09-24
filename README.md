@@ -1,6 +1,6 @@
 # Simulador Propagação CoronaVirus
 
-Projeto de biologia computacional para a matéria de Programação Orientada a Objetos, disciplina cursada no Centro Universitário FEI. O software realiza a simulação do efeito de propagação de uma virose.
+Projeto para a matéria de Programação Orientada a Objetos, disciplina cursada no Centro Universitário FEI. O software realiza a simulação do efeito de propagação de uma virose.
 
 ## Execução
 
