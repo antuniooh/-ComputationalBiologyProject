@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuEh0LAgSqdrpuPkWDZheLT0U7kNqbZqm1KwuY1KwLXaEIcQ709qNRNIHcplpNbIWhvnU&usqp=CAU" alt="Logo" width="550">
+  <a href="https://s3.static.brasilescola.uol.com.br/be/2021/02/covid-19.jpg" alt="Logo" width="550">
   </a>
 </p>
 
@@ -59,8 +59,4 @@ $ cd contamination-covid19-simulator/src
 # In both Windows and Linux, the execution is done by executing the following line in the terminal, inside the /src folder. Another way is to use an IDE of your choice to run the java project.
 $ javac Main.java
 $ java Main
-
-# Open project
-$ python main.py
-
 ```
