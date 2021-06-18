@@ -13,7 +13,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://s3.static.brasilescola.uol.com.br/be/2021/02/covid-19.jpg" alt="Logo" width="550">
+  <a href="https://www.youtube.com/watch?v=NMv0SSdDm-c&t=19s&ab_channel=GustavoMuniz">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuEh0LAgSqdrpuPkWDZheLT0U7kNqbZqm1KwuY1KwLXaEIcQ709qNRNIHcplpNbIWhvnU&usqp=CAU" alt="Logo" width="550">
   </a>
 </p>
 
