@@ -19,9 +19,7 @@
 </p>
 
 <p align="center">
-  <img alt="Math" src="https://img.shields.io/badge/Math-red?style=for-the-badge&logo=math&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="Graph" src="https://img.shields.io/badge/Graph-darkrgreen?style=for-the-badge&logo=graph&logoColor=white"/>
+  <img alt="Math" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 
